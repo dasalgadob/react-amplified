@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+The current step is at graphql files generated at the aws amplify tutorial.
+
 In the project directory, you can run:
 
 ### `npm start`
